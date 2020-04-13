@@ -1,0 +1,5 @@
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_16\bin\Debug\Exercicio_9_16.exe.config
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_16\bin\Debug\Exercicio_9_16.exe
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_16\bin\Debug\Exercicio_9_16.pdb
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_16\obj\Debug\Exercicio_9_16.exe
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_16\obj\Debug\Exercicio_9_16.pdb

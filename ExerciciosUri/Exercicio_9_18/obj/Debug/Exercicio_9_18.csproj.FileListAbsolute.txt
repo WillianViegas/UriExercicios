@@ -1,0 +1,6 @@
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_18\bin\Debug\Exercicio_9_18.exe.config
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_18\bin\Debug\Exercicio_9_18.exe
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_18\bin\Debug\Exercicio_9_18.pdb
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_18\obj\Debug\Exercicio_9_18.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_18\obj\Debug\Exercicio_9_18.exe
+C:\Users\willi\source\repos\ExerciciosUri\Exercicio_9_18\obj\Debug\Exercicio_9_18.pdb
