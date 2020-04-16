@@ -4,3 +4,9 @@ C:\Users\willi\source\repos\ExerciciosUri\Exercicio_10\bin\Debug\Exercicio_10.pd
 C:\Users\willi\source\repos\ExerciciosUri\Exercicio_10\obj\Debug\Exercicio_9_10.csprojAssemblyReference.cache
 C:\Users\willi\source\repos\ExerciciosUri\Exercicio_10\obj\Debug\Exercicio_10.exe
 C:\Users\willi\source\repos\ExerciciosUri\Exercicio_10\obj\Debug\Exercicio_10.pdb
+C:\Users\willi\Documents\UriExercicios\ExerciciosUri\Exercicio_10\bin\Debug\Exercicio_10.exe.config
+C:\Users\willi\Documents\UriExercicios\ExerciciosUri\Exercicio_10\bin\Debug\Exercicio_10.exe
+C:\Users\willi\Documents\UriExercicios\ExerciciosUri\Exercicio_10\bin\Debug\Exercicio_10.pdb
+C:\Users\willi\Documents\UriExercicios\ExerciciosUri\Exercicio_10\obj\Debug\Exercicio_9_10.csprojAssemblyReference.cache
+C:\Users\willi\Documents\UriExercicios\ExerciciosUri\Exercicio_10\obj\Debug\Exercicio_10.exe
+C:\Users\willi\Documents\UriExercicios\ExerciciosUri\Exercicio_10\obj\Debug\Exercicio_10.pdb
